@@ -1,0 +1,18 @@
+﻿  1.c
+D:\Github\C_Learn\3.29\1.c(72,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Github\C_Learn\3.29\1.c(72,9):
+  请考虑在格式字符串中使用“%zu”
+  
+D:\Github\C_Learn\3.29\1.c(73,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Github\C_Learn\3.29\1.c(73,9):
+  请考虑在格式字符串中使用“%zu”
+  
+D:\Github\C_Learn\3.29\1.c(74,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Github\C_Learn\3.29\1.c(74,9):
+  请考虑在格式字符串中使用“%zu”
+  
+D:\Github\C_Learn\3.29\1.c(75,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Github\C_Learn\3.29\1.c(75,9):
+  请考虑在格式字符串中使用“%zu”
+  
+  3.29.vcxproj -> D:\Github\C_Learn\3.29\x64\Debug\3.29.exe

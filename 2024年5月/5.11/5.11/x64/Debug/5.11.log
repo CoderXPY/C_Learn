@@ -1,0 +1,6 @@
+﻿  1.c
+D:\Github\C_Learn\2024年5月\5.11\1.c(46,38): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\Github\C_Learn\2024年5月\5.11\1.c(47,38): warning C4311: “类型强制转换”: 从“char *”到“int”的指针截断
+D:\Github\C_Learn\2024年5月\5.11\1.c(48,38): warning C4311: “类型强制转换”: 从“short *”到“int”的指针截断
+D:\Github\C_Learn\2024年5月\5.11\1.c(49,38): warning C4311: “类型强制转换”: 从“double *”到“int”的指针截断
+  5.11.vcxproj -> D:\Github\C_Learn\2024年5月\5.11\x64\Debug\5.11.exe

@@ -1,0 +1,4 @@
+﻿  1.c
+D:\Github\C_Learn\2024年7月\7.28\1.c(13,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\Github\C_Learn\2024年7月\7.28\1.c(17,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  7.28.vcxproj -> D:\Github\C_Learn\2024年7月\7.28\x64\Debug\7.28.exe

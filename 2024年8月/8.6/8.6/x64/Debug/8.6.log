@@ -1,0 +1,6 @@
+﻿  1.c
+D:\Github\C_Learn\2024年8月\8.6\1.c(8,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“double *”
+D:\Github\C_Learn\2024年8月\8.6\1.c(8,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“double *”
+D:\Github\C_Learn\2024年8月\8.6\1.c(8,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“double *”
+D:\Github\C_Learn\2024年8月\8.6\1.c(8,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 4 拥有了类型“double *”
+  8.6.vcxproj -> D:\Github\C_Learn\2024年8月\8.6\x64\Debug\8.6.exe

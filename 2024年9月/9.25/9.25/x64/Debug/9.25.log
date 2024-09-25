@@ -1,0 +1,5 @@
+﻿  1.c
+D:\Github\C_Learn\2024年9月\9.25\1.c(19,26): warning C4244: “函数”: 从“__int64”转换到“double”，可能丢失数据
+D:\Github\C_Learn\2024年9月\9.25\1.c(15,18): warning C4101: “p”: 未引用的局部变量
+D:\Github\C_Learn\2024年9月\9.25\1.c(15,21): warning C4101: “q”: 未引用的局部变量
+  9.25.vcxproj -> D:\Github\C_Learn\2024年9月\9.25\x64\Debug\9.25.exe

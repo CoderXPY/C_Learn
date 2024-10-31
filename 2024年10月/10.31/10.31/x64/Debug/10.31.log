@@ -1,0 +1,5 @@
+﻿  1.c
+D:\Github\C_Learn\2024年10月\10.31\1.c(12,10): warning C4013: “strlen”未定义；假设外部返回 int
+D:\Github\C_Learn\2024年10月\10.31\1.c(15,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Github\C_Learn\2024年10月\10.31\1.c(20,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  10.31.vcxproj -> D:\Github\C_Learn\2024年10月\10.31\x64\Debug\10.31.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\C_Learn\\2024\u5E7411\u6708\\11.10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31097E6C-B1C2-4268-8DD7-B8343413D643}|11.10.vcxproj|D:\\Github\\C_Learn\\2024\u5E7411\u6708\\11.10\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31097E6C-B1C2-4268-8DD7-B8343413D643}|11.10.vcxproj|solutionrelative:1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.c",
+              "DocumentMoniker": "D:\\Github\\C_Learn\\2024\u5E7411\u6708\\11.10\\1.c",
+              "RelativeDocumentMoniker": "1.c",
+              "ToolTip": "D:\\Github\\C_Learn\\2024\u5E7411\u6708\\11.10\\1.c",
+              "RelativeToolTip": "1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-10T02:31:34.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

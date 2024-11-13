@@ -1,0 +1,4 @@
+﻿  1.c
+D:\Github\C_Learn\2024年11月\11.13\1.c(31,15): warning C4244: “初始化”: 从“ll”转换到“int”，可能丢失数据
+D:\Github\C_Learn\2024年11月\11.13\1.c(38,21): warning C4244: “初始化”: 从“ll”转换到“int”，可能丢失数据
+  11.13.vcxproj -> D:\Github\C_Learn\2024年11月\11.13\x64\Debug\11.13.exe

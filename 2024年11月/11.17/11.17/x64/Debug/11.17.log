@@ -1,0 +1,4 @@
+﻿  1.c
+D:\Github\C_Learn\2024年11月\11.17\1.c(75,19): warning C4013: “strlen”未定义；假设外部返回 int
+D:\Github\C_Learn\2024年11月\11.17\1.c(71,12): warning C4101: “k”: 未引用的局部变量
+  11.17.vcxproj -> D:\Github\C_Learn\2024年11月\11.17\x64\Debug\11.17.exe

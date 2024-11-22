@@ -1,0 +1,4 @@
+﻿  1.c
+D:\Github\C_Learn\2024年11月\11.22\1.c(41,14): warning C4013: “max”未定义；假设外部返回 int
+1.obj : error LNK2019: 无法解析的外部符号 max，函数 main 中引用了该符号
+D:\Github\C_Learn\2024年11月\11.22\x64\Debug\11.22.exe : fatal error LNK1120: 1 个无法解析的外部命令

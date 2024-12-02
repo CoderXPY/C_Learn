@@ -1,0 +1,4 @@
+﻿  1.c
+D:\Github\C_Learn\2024年12月\12.2\1.c(25,23): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Github\C_Learn\2024年12月\12.2\1.c(25,26): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+  12.2.vcxproj -> D:\Github\C_Learn\2024年12月\12.2\x64\Debug\12.2.exe
